@@ -9,9 +9,10 @@ python3 manage.py runserver
 
 ## Technologies used-
 
-backend- Django
-Frontend- Html, Css, vanilla javascript
-Form recognization- Azure form detection service
+-backend- Django
+-Frontend- Html, Css, vanilla javascript
+-Form recognization- Azure form detection service
+-database- Cocroach dB
 
 ## How it works-
 1. Upload the image of bills
